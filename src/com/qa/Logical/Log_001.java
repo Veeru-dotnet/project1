@@ -14,5 +14,6 @@ public class Log_001 {
 				System.out.println(i);
 			}
 		}
+		System.out.println("code completed");
 	}
 }
